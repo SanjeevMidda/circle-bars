@@ -7,7 +7,7 @@
 .App {
   min-height: 100dvh;
   justify-content: center;
-  align-items: center;
+  align-items: end;
   background-color: blue;
   display: flex;
 }
